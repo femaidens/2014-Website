@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+User-agent: Googlebot
+Disallow: /Old Stuff/
+Disallow: /js/
+Disallow: /images/
+Disallow: /css/
+Disallow: /2013/
+Disallow: /fonts/
